@@ -1,11 +1,11 @@
 import React from 'react';
-import C7_12_118 from "./C7_12_118"
+import Recipe from "./Recipe"
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <C7_12_118 />
+      <Recipe />
     </div>
   );
 }
